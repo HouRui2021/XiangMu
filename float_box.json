@@ -1,0 +1,355 @@
+[
+    {
+        "id": 1,
+        "text": [
+            {
+                "title": "装修设计",
+                "content": [
+                    "半包装修url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "全包装修url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "清包装修url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+            },
+            {
+                "title": "家装卖场",
+                "content": [
+                    "建材卖场url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "家居卖场url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "灯饰卖场url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "text": [
+            {
+                "title": "外卖",
+                "content": [
+                    "美团外卖url:https://www.maoyan.com/films/1331661?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "text": [
+            {
+                "title": "酒店星级",
+                "content": [
+                    "酒店url:https://www.maoyan.com/films/1331661?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": [
+            {
+                "title": "热门城市",
+                "content": [
+                    "上海url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "成都url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "重庆url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "南京url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "苏州url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "青岛url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+            },
+            {
+                "title": "热门房源",
+                "content": [
+                    "复式Lofturl:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "别墅url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": [
+            {
+                "title": "热映电影",
+                "content": [
+                    "误杀2url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "雄狮少年url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "反贪风暴5：最终章url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "误杀2url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "雄狮少年url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "反贪风暴5：最终章url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "误杀2url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "雄狮少年url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "反贪风暴5：最终章url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": [
+            {
+                "title": "机票",
+                "content": [
+                    "国内机票url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "国际/港澳台机票url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+            },
+            {
+                "title": "火车票",
+                "content": [
+                    "火车票url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "text": [
+            {
+                "title": "休闲娱乐",
+                "content": [
+                    "足疗按摩url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "洗浴/汗蒸url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "酒吧url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "密室逃脱url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "轰趴馆url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "茶馆url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "DIY手工坊采摘/农家乐url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "网吧网咖url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "游乐游艺url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "VR桌面url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "游戏真人CSurl:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "棋牌室url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "其他玩乐url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+            },
+            {
+                "title": "KTV",
+                "content": [
+                    "KTVurl:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": [
+            {
+                "title": "生活服务",
+                "content": [
+                    "衣物/皮具洗护url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "家政搬家运输url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "送水充值缴费url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "服饰/鞋包养护url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "开锁换锁url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "管道疏通url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "衣物/皮具洗护url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "家政搬家运输url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "送水充值缴费url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "服饰/鞋包养护url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "开锁换锁url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "管道疏通url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "衣物/皮具洗护url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "家政搬家运输url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "送水充值缴费url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "服饰/鞋包养护url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "开锁换锁url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "管道疏通url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "text": [
+            {
+                "title": "丽人",
+                "content": [
+                    "美发url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "美甲url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "美睫url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "化妆品url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "养发url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "医学美容url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": [
+            {
+                "title": "结婚",
+                "content": [
+                    "婚纱摄影url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "旅拍url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "个性写真url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "婚宴婚庆公司url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "更多婚礼服务url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "text": [
+            {
+                "title": "热映电影",
+                "content": [
+                    "误杀2url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "雄狮少年url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "反贪风暴5：最终章url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "text": [
+            {
+                "title": "儿童乐园",
+                "content": [
+                    "婴儿游泳url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "其它亲子游乐url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+                
+            },
+            {
+                "title": "幼儿教育",
+                "content": [
+                    "早教中心url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "少儿英语url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "早教中心url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "少儿英语url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "智力开发url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "托班/幼儿园url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "幼儿教育url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "其他幼儿教育url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            },
+            {
+                "title": "亲子摄影",
+                "content": [
+                    "儿童摄影url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "孕妇写真url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "上门拍url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "孕妇写真url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "上门拍url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "孕妇写真url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "上门拍url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "其他亲子摄影url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            },
+            {
+                "title": "孕产护理",
+                "content": [
+                    "月子会所url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "产后恢复url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "月子会所url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "产后恢复url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "月子会所url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "产后恢复url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "孕产用品url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "text": [
+            {
+                "title": "运动健身",
+                "content": [
+                    "健身中心url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "武术场馆url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "游泳馆url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "text": [
+            {
+                "title": "装修设计",
+                "content": [
+                    "半包装修url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "全包装修url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "清包装修url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            },
+            {
+                "title": "装修建材",
+                "content": [
+                    "地板url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "瓷砖石材url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "橱柜灯饰照明url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            },
+            {
+                "title": "家具家居",
+                "content": [
+                    "家具url:https://www.maoyan.com/films/1331661?utm_source=meituanweb"
+                ]
+            },
+            {
+                "title": "家装卖场",
+                "content": [
+                    "建材卖场url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "家居卖场url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "灯饰卖场url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "text": [
+            {
+                "title": "医疗健康",
+                "content": [
+                    "医院2url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "齿科口腔url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "体检中心url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            },
+            {
+                "title": "爱车",
+                "content": [
+                    "洗车url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "租车url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "加油站url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "维修保养url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "驾校url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "汽车美容url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "汽车美容url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "汽车美容url:https://www.maoyan.com/films/1277950?utm_source=meituanweb",
+                    "汽车配件url:https://www.maoyan.com/films/1277950?utm_source=meituanweb"
+                ]
+            },
+            {
+                "title": "宠物",
+                "content": [
+                    "宠物店url:https://www.maoyan.com/films/1331661?utm_source=meituanweb",
+                    "宠物医院url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "text": [
+            {
+                "title": "玩乐",
+                "content": [
+                    "KTVurl:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "酒吧url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "密室逃脱url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "游乐游艺url:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "VRurl:https://www.maoyan.com/films/1337941?utm_source=meituanweb",
+                    "私人影院url:https://www.maoyan.com/films/1337941?utm_source=meituanweb"
+                ]
+            }
+        ]
+    }
+]

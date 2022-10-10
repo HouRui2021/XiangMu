@@ -1,0 +1,723 @@
+[
+    {
+        "id": 1,
+        "city": "深圳",
+        "content": [
+            {
+                "id": 1,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 50
+            },
+            {
+                "id": 2,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/eac37a571be421ac0d6b5776c20bbdf196340.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/be811690cb1c20ac17586c5fc83530c316120.jpg@200w_200h_1e_1c",
+                "title": "深圳北白石龙地铁4号线直达福田口岸带阳台",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "中山/长青公园",
+                "price": 888
+            },
+            {
+                "id": 3,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/6b871a51c6528753f8d1089fd27a06bf3092407.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 100
+            },
+            {
+                "id": 4,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 58
+            },
+            {
+                "id": 5,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/80842bcf1158eac4e2ffa16680b481781173916.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 500
+            },
+            {
+                "id": 6,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 98
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "city": "佛山",
+        "content": [
+            {
+                "id": 1,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/da75ffb9511158a9dc3af5fcd26631fd3039780.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "简约风格装饰loft复式公寓",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "广佛智城",
+                "price": 598
+            },
+            {
+                "id": 2,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/eac37a571be421ac0d6b5776c20bbdf196340.jpg@740w_416h_1e_1c",
+                "img_logo": "http://p0.meituan.net/phoenix/aa127f0fcb5fd32e24e5f823af8c3304354356.jpg@200w_200h_1e_1c",
+                "title": "深圳北白石龙地铁4号线直达福田口岸带阳台",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "厚街镇",
+                "price": 888
+            },
+            {
+                "id": 3,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/d7ca6da733211d8f104c867e062f344a4819572.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af919d53dbca3b2457c0421ecff4b876233479.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "佛山西站/沙堤机场",
+                "price": 1000
+            },
+            {
+                "id": 4,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 58
+            },
+            {
+                "id": 5,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/80842bcf1158eac4e2ffa16680b481781173916.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 500
+            },
+            {
+                "id": 6,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/9a76031e713faadbf6562bac0d67eec11920501.jpg@740w_416h_1e_1c",
+                "img_logo":"https://img.meituan.net/avatar/799306cee5f857e7907be86e709ab8e021933.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 98
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "city": "珠海",
+        "content": [
+            {
+                "id": 1,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/e08fa648f1e1d8ce12bb837bddac2c4b794329.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "会展中心、新海港、体育馆、海景房【寓米·西海岸国际会展中心店】近远大购物广场、五源河体育馆、火车站、南港码头、紧邻海边！",
+                "structure": "整套1居室·",
+                "person": "可住6人",
+                "address": "中山/长青公园",
+                "price": 500
+            },
+            {
+                "id": 2,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/eac64b0b760e4b2d5cbb412e441a93db3506111.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/be811690cb1c20ac17586c5fc83530c316120.jpg@200w_200h_1e_1c",
+                "title": "深圳北白石龙地铁4号线直达福田口岸带阳台",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "天隆三千海",
+                "price": 80
+            },
+            {
+                "id": 3,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/e08fa648f1e1d8ce12bb837bddac2c4b794329.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "天隆三千海",
+                "price": 1000
+            },
+            {
+                "id": 4,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "会展中心、新海港、体育馆、海景房【寓米·西海岸国际会展中心店】近远大购物广场、五源河体育馆、火车站、南港码头、紧邻海边！",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 589
+            },
+            {
+                "id": 5,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/e08fa648f1e1d8ce12bb837bddac2c4b794329.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 30
+            },
+            {
+                "id": 6,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 98
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "city": "肇庆",
+        "content": [
+            {
+                "id": 1,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://p0.meituan.net/iphoenix/cadf6e3549dcc773bc636d5e712e595170984.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "【恋 家】地中海浪漫套房/近海洋之窗/侨港风情街",
+                "structure": "整套1居室·",
+                "person": "可住3人",
+                "address": "中山/长青公园",
+                "price": 620
+            },
+            {
+                "id": 2,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/eac37a571be421ac0d6b5776c20bbdf196340.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/be811690cb1c20ac17586c5fc83530c316120.jpg@200w_200h_1e_1c",
+                "title": "深圳北白石龙地铁4号线直达福田口岸带阳台",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "万和购物广场",
+                "price": 889
+            },
+            {
+                "id": 3,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://p0.meituan.net/iphoenix/cadf6e3549dcc773bc636d5e712e595170984.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住1人",
+                "address": "天隆三千海",
+                "price": 1000
+            },
+            {
+                "id": 4,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://p0.meituan.net/iphoenix/cadf6e3549dcc773bc636d5e712e595170984.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 587
+            },
+            {
+                "id": 5,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/80842bcf1158eac4e2ffa16680b481781173916.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 56
+            },
+            {
+                "id": 6,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 98
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "city": "东莞",
+        "content": [
+            {
+                "id": 1,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/eac64b0b760e4b2d5cbb412e441a93db3506111.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 507
+            },
+            {
+                "id": 2,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/eac37a571be421ac0d6b5776c20bbdf196340.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/be811690cb1c20ac17586c5fc83530c316120.jpg@200w_200h_1e_1c",
+                "title": "深圳北白石龙地铁4号线直达福田口岸带阳台",
+                "structure": "整套1居室·",
+                "person": "可住4人",
+                "address": "银滩旅游度假区",
+                "price": 888
+            },
+            {
+                "id": 3,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p0.meituan.net/phoenix/3268520481945852e755363aeccdf17d1094783.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "中山/长青公园",
+                "price": 109
+            },
+            {
+                "id": 4,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住3人",
+                "address": "深圳北站",
+                "price": 58
+            },
+            {
+                "id": 5,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/80842bcf1158eac4e2ffa16680b481781173916.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住1人",
+                "address": "银滩旅游度假区",
+                "price": 500
+            },
+            {
+                "id": 6,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 98
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "city": "汕头",
+        "content": [
+            {
+                "id": 1,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/8be20f14d3b2fe3113d83f2acdcf8ae74579453.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "银滩旅游度假区",
+                "price": 99
+            },
+            {
+                "id": 2,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/eac64b0b760e4b2d5cbb412e441a93db3506111.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/be811690cb1c20ac17586c5fc83530c316120.jpg@200w_200h_1e_1c",
+                "title": "深圳北白石龙地铁4号线直达福田口岸带阳台",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "万达广场",
+                "price": 89
+            },
+            {
+                "id": 3,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/8be20f14d3b2fe3113d83f2acdcf8ae74579453.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 1007
+            },
+            {
+                "id": 4,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "银滩旅游度假区",
+                "price": 586
+            },
+            {
+                "id": 5,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/80842bcf1158eac4e2ffa16680b481781173916.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 50
+            },
+            {
+                "id": 6,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/8be20f14d3b2fe3113d83f2acdcf8ae74579453.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 978
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "city": "韶关",
+        "content": [
+            {
+                "id": 1,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/874017ff4157bb83beebe43dac440caa6273534.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 96
+            },
+            {
+                "id": 2,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/eac64b0b760e4b2d5cbb412e441a93db3506111.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/be811690cb1c20ac17586c5fc83530c316120.jpg@200w_200h_1e_1c",
+                "title": "深圳北白石龙地铁4号线直达福田口岸带阳台",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "碧桂园山河城",
+                "price": 88
+            },
+            {
+                "id": 3,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/874017ff4157bb83beebe43dac440caa6273534.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "万达广场",
+                "price": 104
+            },
+            {
+                "id": 4,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 584
+            },
+            {
+                "id": 5,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/80842bcf1158eac4e2ffa16680b481781173916.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 50
+            },
+            {
+                "id": 6,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 198
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "city": "中山",
+        "content": [
+            {
+                "id": 1,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "碧桂园山河城",
+                "price": 50
+            },
+            {
+                "id": 2,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/eac37a571be421ac0d6b5776c20bbdf196340.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/be811690cb1c20ac17586c5fc83530c316120.jpg@200w_200h_1e_1c",
+                "title": "深圳北白石龙地铁4号线直达福田口岸带阳台",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 778
+            },
+            {
+                "id": 3,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/9a3662a0a9d93ff90edc07e736d7ea502960019.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "碧桂园山河城",
+                "price": 106
+            },
+            {
+                "id": 4,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 58
+            },
+            {
+                "id": 5,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/9a3662a0a9d93ff90edc07e736d7ea502960019.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 560
+            },
+            {
+                "id": 6,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 98
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "city": "香港",
+        "content": [
+            {
+                "id": 1,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "万和购物广场",
+                "price": 500
+            },
+            {
+                "id": 2,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/eac64b0b760e4b2d5cbb412e441a93db3506111.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/be811690cb1c20ac17586c5fc83530c316120.jpg@200w_200h_1e_1c",
+                "title": "深圳北白石龙地铁4号线直达福田口岸带阳台",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "碧桂园山河城",
+                "price": 2500
+            },
+            {
+                "id": 3,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/874017ff4157bb83beebe43dac440caa6273534.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "万和购物广场",
+                "price": 1090
+            },
+            {
+                "id": 4,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 5880
+            },
+            {
+                "id": 5,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/874017ff4157bb83beebe43dac440caa6273534.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 5010
+            },
+            {
+                "id": 6,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 980
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "city": "澳门",
+        "content": [
+            {
+                "id": 1,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/bc1ebaa3790e772df516b5cad0a945e23330930.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住5人",
+                "address": "深圳北站",
+                "price": 509
+            },
+            {
+                "id": 2,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/bc1ebaa3790e772df516b5cad0a945e23330930.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/be811690cb1c20ac17586c5fc83530c316120.jpg@200w_200h_1e_1c",
+                "title": "深圳北白石龙地铁4号线直达福田口岸带阳台",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "银滩旅游度假区",
+                "price": 869
+            },
+            {
+                "id": 3,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/6b871a51c6528753f8d1089fd27a06bf3092407.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "银滩旅游度假区",
+                "price": 100
+            },
+            {
+                "id": 4,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "http://p1.meituan.net/iphoenix/6ecf8e4d24f609d8c03a57313e84c7e2128481.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/fc686e90ad0c6c7e375990ca27d04a4c239060.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住4人",
+                "address": "深圳北站",
+                "price": 518
+            },
+            {
+                "id": 5,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/80842bcf1158eac4e2ffa16680b481781173916.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "银滩旅游度假区",
+                "price": 500
+            },
+            {
+                "id": 6,
+                "href": "https://minsu.dianping.com/housing/12771660/",
+                "img_big": "https://img.meituan.net/phoenix/bc1ebaa3790e772df516b5cad0a945e23330930.jpg@740w_416h_1e_1c",
+                "img_logo": "https://img.meituan.net/avatar/af55f55947a3a1ff3dfe58e9d7fe782486262.jpg@200w_200h_1e_1c",
+                "title": "宝安机场附近喜相逢住宿特价房",
+                "structure": "整套1居室·",
+                "person": "可住2人",
+                "address": "深圳北站",
+                "price": 989
+            }
+        ]
+    }
+
+]

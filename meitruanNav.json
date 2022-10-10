@@ -1,0 +1,295 @@
+[
+    {
+        "id": 1,
+        "title": "热门城市",
+        "list": [
+            {
+                "id": 1,
+                "describe": "西安",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 2,
+                "describe": "南京",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 3,
+                "describe": "温州",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 4,
+                "describe": "北京",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 5,
+                "describe": "深圳",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 6,
+                "describe": "佛山",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 7,
+                "describe": "珠海",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 8,
+                "describe": "香港",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 9,
+                "describe": "苏州",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 10,
+                "describe": "太原",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 11,
+                "describe": "肇庆",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 12,
+                "describe": "南宁",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 13,
+                "describe": "哈尔滨",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 14,
+                "describe": "厦门",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 15,
+                "describe": "澳门",
+                "href": "https://xa.meituan.com/"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "热门分类",
+        "list": [
+            {
+                "id": 1,
+                "describe": "酒店",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "美食",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "休闲娱乐",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "运动健身",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "生活服务",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "上门服务",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "购物",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "时尚购",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "本地购物",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "结婚",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "摄影写真",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "宴会",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "结婚",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "母婴亲子",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "学习培训",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "家装",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "汽车服务",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "医疗",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "宠物",
+                "href": "https://xa.meituan.com/"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "周边热门",
+        "list": [
+            {
+                "id": 1,
+                "describe": "佛山酒店",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "南沙美食",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "南沙休闲娱乐",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "南沙运动健身",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "南沙生活服务",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "佛山上门服务",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "佛山购物",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "顺德时尚购",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "佛山本地购物",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "佛山结婚",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "顺德摄影写真",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "顺德宴会",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "顺德丽人",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "顺德母婴亲子",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "顺德学习培训",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "顺德家装",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "南沙汽车服务",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "南沙医疗",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "顺德宠物",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "顺德宠物",
+                "href": "https://xa.meituan.com/"
+            },
+            {
+                "id": 1,
+                "describe": "顺德宠物",
+                "href": "https://xa.meituan.com/"
+            }
+        ]
+    }
+]
